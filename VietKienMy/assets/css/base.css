@@ -1,0 +1,22 @@
+/* Root */
+:root {
+    --color-white : #fff;
+    --color-black : #000;
+    --text-color-white : #ccc;
+    --tex-color-black : #333;
+}
+
+
+
+/* reset CSS */
+* {
+    margin: 0;
+    pad: 0;
+    box-sizing: inherit;
+}
+html {
+    font-size: 62.5%; /* default 100% 16px, 62.5% 10px */
+    line-height: 1.6rem;
+    font-family: 'Roboto', sans-serif;;
+    box-sizing: border-box;
+}
